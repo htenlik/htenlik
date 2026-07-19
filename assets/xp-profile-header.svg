@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1687d9"/>
+      <stop offset="100%" stop-color="#8fd2f4"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2f79e8"/>
+      <stop offset="55%" stop-color="#0755c8"/>
+      <stop offset="100%" stop-color="#083b9f"/>
+    </linearGradient>
+    <linearGradient id="titlebar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4097ff"/>
+      <stop offset="45%" stop-color="#1268dc"/>
+      <stop offset="100%" stop-color="#0646ad"/>
+    </linearGradient>
+    <linearGradient id="start" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58c23d"/>
+      <stop offset="100%" stop-color="#16821f"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#003b72" flood-opacity=".35"/>
+    </filter>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="430" fill="url(#sky)"/>
+
+  <!-- clouds -->
+  <g fill="#fff" opacity=".92" filter="url(#soft)">
+    <ellipse cx="220" cy="73" rx="105" ry="28"/>
+    <ellipse cx="160" cy="80" rx="61" ry="31"/>
+    <ellipse cx="285" cy="78" rx="62" ry="35"/>
+    <ellipse cx="983" cy="58" rx="115" ry="31"/>
+    <ellipse cx="920" cy="68" rx="62" ry="34"/>
+    <ellipse cx="1052" cy="69" rx="68" ry="36"/>
+  </g>
+
+  <!-- hills -->
+  <path d="M0 299 C175 188 351 196 520 289 C672 374 840 337 1200 239 L1200 430 L0 430 Z" fill="#6fc54a"/>
+  <path d="M0 366 C210 248 380 264 565 357 C755 452 936 304 1200 321 L1200 430 L0 430 Z" fill="#36a93a"/>
+  <path d="M0 430 C193 300 365 323 550 430 Z" fill="#197b31"/>
+
+  <!-- desktop icons -->
+  <g font-family="Tahoma, Verdana, sans-serif" font-size="15" fill="#fff" text-anchor="middle">
+    <g transform="translate(70,92)">
+      <rect x="-27" y="-26" width="54" height="38" rx="3" fill="#dce8ee" stroke="#244c64" stroke-width="3"/>
+      <rect x="-21" y="-20" width="42" height="26" fill="#3b91c7"/>
+      <rect x="-7" y="13" width="14" height="8" fill="#b8cbd5"/>
+      <rect x="-19" y="21" width="38" height="5" rx="2" fill="#dce8ee"/>
+      <text y="48" paint-order="stroke" stroke="#174f84" stroke-width="4">My Projects</text>
+    </g>
+    <g transform="translate(70,195)">
+      <rect x="-27" y="-30" width="54" height="53" rx="4" fill="#f5f5f5" stroke="#35627a" stroke-width="3"/>
+      <path d="M-17 -18 H17 M-17 -8 H17 M-17 2 H8" stroke="#2873b8" stroke-width="4"/>
+      <rect x="-17" y="10" width="34" height="7" fill="#d72d2d"/>
+      <text y="48" paint-order="stroke" stroke="#174f84" stroke-width="4">Resume.pdf</text>
+    </g>
+    <g transform="translate(70,300)">
+      <rect x="-28" y="-27" width="56" height="48" rx="8" fill="#222" stroke="#d6d6d6" stroke-width="3"/>
+      <text y="5" font-size="25" font-weight="bold">&gt;_</text>
+      <text y="48" paint-order="stroke" stroke="#174f84" stroke-width="4">Backend.exe</text>
+    </g>
+  </g>
+
+  <!-- main window -->
+  <g filter="url(#shadow)">
+    <rect x="176" y="91" width="850" height="258" rx="8" fill="#ece9d8" stroke="#0755c8" stroke-width="4"/>
+    <path d="M181 95 H1021 V132 H181 Z" fill="url(#titlebar)"/>
+    <text x="198" y="120" fill="white" font-family="Tahoma, Verdana, sans-serif" font-size="19" font-weight="bold">
+      Hüseyin Tenlik — System Properties
+    </text>
+
+    <g transform="translate(931,102)">
+      <rect width="25" height="23" rx="3" fill="#2e80e8" stroke="#fff"/>
+      <path d="M6 16 H19" stroke="#fff" stroke-width="3"/>
+      <rect x="31" width="25" height="23" rx="3" fill="#2e80e8" stroke="#fff"/>
+      <rect x="38" y="6" width="11" height="10" fill="none" stroke="#fff" stroke-width="2"/>
+      <rect x="62" width="25" height="23" rx="3" fill="#e13c2f" stroke="#fff"/>
+      <path d="M69 6 L80 17 M80 6 L69 17" stroke="#fff" stroke-width="3"/>
+    </g>
+
+    <rect x="196" y="151" width="184" height="172" rx="5" fill="#fff" stroke="#aca899"/>
+    <circle cx="288" cy="211" r="48" fill="#1268dc"/>
+    <circle cx="288" cy="211" r="39" fill="#e8f5ff"/>
+    <text x="288" y="225" text-anchor="middle" font-family="Consolas, monospace" font-size="43" font-weight="bold" fill="#0755c8">HT</text>
+    <text x="288" y="285" text-anchor="middle" font-family="Tahoma, Verdana, sans-serif" font-size="16" font-weight="bold" fill="#222">
+      Backend / Full-Stack
+    </text>
+    <text x="288" y="307" text-anchor="middle" font-family="Tahoma, Verdana, sans-serif" font-size="13" fill="#555">
+      Developer
+    </text>
+
+    <g font-family="Tahoma, Verdana, sans-serif">
+      <text x="411" y="177" font-size="29" font-weight="bold" fill="#143c75">Hüseyin Tenlik</text>
+      <text x="411" y="205" font-size="16" fill="#333">Computer Engineering @ Hacettepe University</text>
+
+      <line x1="411" y1="220" x2="990" y2="220" stroke="#aca899"/>
+
+      <text x="411" y="247" font-size="15" font-weight="bold" fill="#333">Focus</text>
+      <text x="535" y="247" font-size="15" fill="#333">Backend systems, APIs, security &amp; production delivery</text>
+
+      <text x="411" y="276" font-size="15" font-weight="bold" fill="#333">Stack</text>
+      <text x="535" y="276" font-size="15" fill="#333">Java • Spring Boot • PHP • .NET • PostgreSQL • React</text>
+
+      <text x="411" y="305" font-size="15" font-weight="bold" fill="#333">Status</text>
+      <rect x="535" y="289" width="12" height="12" rx="6" fill="#34a853"/>
+      <text x="555" y="305" font-size="15" fill="#333">Building software that survives outside localhost</text>
+    </g>
+  </g>
+
+  <!-- taskbar -->
+  <rect y="388" width="1200" height="42" fill="url(#bar)"/>
+  <path d="M0 388 H1200" stroke="#6eafff" stroke-width="2"/>
+  <path d="M0 388 H108 Q122 388 129 399 V430 H0 Z" fill="url(#start)"/>
+  <circle cx="28" cy="409" r="12" fill="#f2f2f2"/>
+  <path d="M20 401 H27 V408 H20 Z M29 401 H36 V408 H29 Z M20 410 H27 V417 H20 Z M29 410 H36 V417 H29 Z" fill="#2ca43d"/>
+  <text x="51" y="416" font-family="Tahoma, Verdana, sans-serif" font-size="18" font-weight="bold" fill="#fff">start</text>
+
+  <rect x="142" y="394" width="265" height="31" rx="4" fill="#1d69da" stroke="#72aaf5"/>
+  <text x="158" y="415" font-family="Tahoma, Verdana, sans-serif" font-size="15" fill="#fff">🖥️  htenlik — GitHub Profile</text>
+
+  <rect x="1090" y="394" width="104" height="31" rx="4" fill="#0d7ed8" stroke="#6eb7f1"/>
+  <text x="1142" y="415" text-anchor="middle" font-family="Tahoma, Verdana, sans-serif" font-size="14" fill="#fff">ONLINE</text>
+</svg>

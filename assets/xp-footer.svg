@@ -10,7 +10,7 @@
   <circle cx="86" cy="75" r="31" fill="#1268dc"/>
   <text x="86" y="87" text-anchor="middle" font-family="Consolas, monospace" font-size="31" font-weight="bold" fill="#fff">HT</text>
   <text x="140" y="66" font-family="Tahoma, Verdana, sans-serif" font-size="25" font-weight="bold" fill="#143c75">Thanks for stopping by.</text>
-  <text x="140" y="96" font-family="Tahoma, Verdana, sans-serif" font-size="16" fill="#333">Explore the code, open the live demos, and see what happens after localhost.</text>
+  <text x="140" y="96" font-family="Tahoma, Verdana, sans-serif" font-size="16" fill="#333">Check my portfolio!</text>
   <rect x="935" y="48" width="190" height="51" rx="7" fill="#f4f4f4" stroke="#777"/>
   <text x="1030" y="80" text-anchor="middle" font-family="Tahoma, Verdana, sans-serif" font-size="16" font-weight="bold" fill="#222">htenlik.com  →</text>
 </svg>

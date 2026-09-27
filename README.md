@@ -16,50 +16,9 @@
 Name       : Hüseyin Tenlik
 Education  : Computer Engineering, Hacettepe University
 Direction  : Backend engineering → full-stack product delivery
-Focus      : APIs, authentication, security, databases and distributed systems
-Mindset    : Build it clearly. Test it properly. Deploy it for real.
 ```
 
 I am a computer engineering student who enjoys turning backend logic into software that people can actually open, use and evaluate.
-
-My work is centered around **production-minded backend development**: designing APIs, enforcing authorization rules, modelling relational data, testing critical flows and carrying applications beyond `localhost`.
-
----
-
-## `C:\Featured\IWMS.exe`
-
-[![Internship Workflow Management System](assets/iwms-project-card.svg)](https://internship-workflow-management-syst.vercel.app/)
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/Launch-Live_Demo-16821f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://internship-workflow-management-syst.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Open-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/htenlik/Internship-Workflow-Management-System)
-[![Backend](https://img.shields.io/badge/API-Render-46E3B7?style=for-the-badge&logo=render&logoColor=111)](https://iwms-backend-huseyin.onrender.com)
-
-</div>
-
-### What it solves
-
-A full-stack internship workflow platform developed for university processes, covering:
-
-- JWT authentication and role-based authorization
-- Internship report drafting, PDF upload and submission
-- Company registration and administrative review
-- Supervisor token and OTP verification
-- Certification, coordinator assessment and final approval
-- Semester, user, FAQ and announcement management
-- Realistic production demo data for every major workflow state
-
-### My engineering focus
-
-I worked on the backend and production delivery: workflow APIs, authentication and authorization, database integration, business rules, security hardening, deployment configuration and live demo setup.
-
-> **Frontend:** React + Vite  
-> **Backend:** Java + Spring Boot  
-> **Database:** PostgreSQL  
-> **Infrastructure:** Docker, Vercel, Render and Neon
-
----
 
 ## `C:\Projects\explorer.exe`
 
@@ -153,19 +112,6 @@ Coursework and experiments spanning data structures, systems programming and par
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
 
 </div>
-
----
-
-## `C:\Work\engineering-principles.txt`
-
-```diff
-+ Design APIs around real workflows, not only database tables.
-+ Treat authorization as a backend responsibility.
-+ Make failures observable and understandable.
-+ Prefer explainable signals over unexplained scores.
-+ Test the paths that can break the demo — and the product.
-+ A project is not finished until someone else can run it.
-```
 
 ---
 

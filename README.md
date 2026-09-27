@@ -5,9 +5,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-htenlik.com-0755c8?style=for-the-badge&logo=windowsxp&logoColor=white)](https://htenlik.com)
-[![Live IWMS](https://img.shields.io/badge/LIVE_PROJECT-IWMS-16821f?style=for-the-badge&logo=vercel&logoColor=white)](https://internship-workflow-management-syst.vercel.app/)
 [![Email](https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-ef8c18?style=for-the-badge)](https://htenlik.com)
-
+[![Live IWMS](https://img.shields.io/badge/LIVE_PROJECT-IWMS-16821f?style=for-the-badge&logo=vercel&logoColor=white)](https://internship-workflow-management-syst.vercel.app/)
 </div>
 
 ## `C:\Users\Huseyin\about.exe`
@@ -15,7 +14,7 @@
 ```text
 Name       : Hüseyin Tenlik
 Education  : Computer Engineering, Hacettepe University
-Direction  : Backend engineering → full-stack product delivery
+Direction  : Software Engineering, Backend Developer
 ```
 
 I am a computer engineering student who enjoys turning backend logic into software that people can actually open, use and evaluate.
@@ -121,7 +120,6 @@ Coursework and experiments spanning data structures, systems programming and par
 
 **Portfolio:** [htenlik.com](https://htenlik.com)  
 **GitHub:** [github.com/htenlik](https://github.com/htenlik)  
-**Featured live project:** [Internship Workflow Management System](https://internship-workflow-management-syst.vercel.app/)
 
 <br/>
 

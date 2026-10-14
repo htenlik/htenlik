@@ -21,70 +21,23 @@ I am a computer engineering student who enjoys turning backend logic into softwa
 
 ## `C:\Projects\explorer.exe`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🧠 Jotform Hackathon Project
+<a href="https://htenlik.com/#projects"><img src="assets/explorer/00-header.svg" width="100%" alt="My Projects — explorer window"/></a>
+<a href="https://github.com/htenlik/jutform-hackathon"><img src="assets/explorer/01-jotform-sign-analytics.svg" width="100%" alt="Jotform Sign Analytics"/></a>
+<a href="https://github.com/htenlik/open-source-software"><img src="assets/explorer/02-oss-qmet.svg" width="100%" alt="OSS-QMET"/></a>
+<a href="https://github.com/htenlik/Internship-Workflow-Management-System"><img src="assets/explorer/03-internship-workflow.svg" width="100%" alt="Internship Workflow Management System"/></a>
+<a href="https://github.com/htenlik/Tasinmaz-Management-System"><img src="assets/explorer/04-tasinmaz.svg" width="100%" alt="Taşınmaz Yönetim Sistemi"/></a>
+<a href="https://github.com/htenlik/weather-app"><img src="assets/explorer/05-hava-weather.svg" width="100%" alt="Hava — Weather App"/></a>
+<a href="https://github.com/htenlik/minidb_cpp"><img src="assets/explorer/06-minidb.svg" width="100%" alt="MiniDB++"/></a>
+<a href="https://github.com/htenlik/MPIGatherTorus"><img src="assets/explorer/07-mpi-gather-torus.svg" width="100%" alt="MPI_Gather on 2D Torus"/></a>
+<a href="https://github.com/htenlik/P2P-File-Sharing"><img src="assets/explorer/08-p2p-file-sharing.svg" width="100%" alt="P2P File Sharing"/></a>
+<a href="https://github.com/htenlik/apart-incident-dashboard"><img src="assets/explorer/09-ai-incident-dashboard.svg" width="100%" alt="AI Incident Evidence Dashboard"/></a>
+<a href="https://htenlik.com/#projects"><img src="assets/explorer/99-statusbar.svg" width="100%" alt="More on htenlik.com"/></a>
 
-A three-person team project focused on turning raw form analytics into clear, actionable insights.
+<sub>📁 <b>Coursework</b> — <a href="https://github.com/htenlik/BBM103">BBM103</a> · <a href="https://github.com/htenlik/BBM104">BBM104</a> · <a href="https://github.com/htenlik/BBM203">BBM203</a> · <a href="https://github.com/htenlik/BBM204">BBM204</a> · <a href="https://github.com/htenlik/BBM233">BBM233</a></sub>
 
-**Highlights**
-- Evidence-based field friction analysis
-- Explainable health and confidence signals
-- User-friendly AI-generated reporting
-- Backend analytics and production data flows
-
-[Open repository →](https://github.com/htenlik/jutform-hackathon)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 P2P File Sharing
-
-A peer-to-peer networking project exploring direct communication, file transfer and distributed system fundamentals.
-
-**Highlights**
-- Peer discovery and communication
-- Network programming
-- File-transfer workflow
-- Distributed architecture fundamentals
-
-[Open repository →](https://github.com/htenlik/P2P-File-Sharing)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Property Management System
-
-A management system built around structured domain modelling and application workflows.
-
-**Highlights**
-- Relational data modelling
-- CRUD and business operations
-- Layered application structure
-- Practical management flows
-
-[Open repository →](https://github.com/htenlik/Tasinmaz-Management-System)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Systems & Parallel Programming
-
-Coursework and experiments spanning data structures, systems programming and parallel-computing concepts.
-
-**Repositories**
-- [BBM204](https://github.com/htenlik/BBM204)
-- [MPI Gather Torus](https://github.com/htenlik/MPIGatherTorus)
-- [BBM203](https://github.com/htenlik/BBM203)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 

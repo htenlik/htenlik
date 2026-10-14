@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="196" viewBox="0 0 840 196" role="img" aria-label="My Projects — Windows XP style file explorer">
+<title>My Projects — Windows XP style file explorer</title>
+
+<defs>
+  <linearGradient id="title" x2="0" y2="1"><stop stop-color="#3d95ff"/><stop offset=".12" stop-color="#2a7cf0"/><stop offset=".55" stop-color="#0a5bd8"/><stop offset="1" stop-color="#0646ad"/></linearGradient>
+  <linearGradient id="band" x2="0" y2="1"><stop stop-color="#7aa5ea"/><stop offset="1" stop-color="#5585d8"/></linearGradient>
+  <linearGradient id="tabsel" x2="0" y2="1"><stop stop-color="#3a78e0"/><stop offset="1" stop-color="#1c55c0"/></linearGradient>
+  <linearGradient id="go" x2="0" y2="1"><stop stop-color="#6fd34e"/><stop offset="1" stop-color="#249a23"/></linearGradient>
+  <linearGradient id="close" x2="0" y2="1"><stop stop-color="#f08a72"/><stop offset="1" stop-color="#c3361c"/></linearGradient>
+  <linearGradient id="ctl" x2="0" y2="1"><stop stop-color="#5a9cff"/><stop offset="1" stop-color="#1c5fd6"/></linearGradient>
+  <linearGradient id="btn" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".85" stop-color="#ece9d8"/><stop offset="1" stop-color="#d6d0bd"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="838" height="194" rx="9" fill="#ece9d8" stroke="#0a3f9f" stroke-width="2"/>
+<path d="M2 10a8 8 0 018-8h820a8 8 0 018 8v26H2z" fill="url(#title)"/>
+<path d="M10 3h820" stroke="#8cc0ff" stroke-width="1.5" opacity=".7"/>
+<g transform="translate(14 10) scale(.95)"><path d="M0 3a2 2 0 012-2h5l2 2h9a2 2 0 012 2v10a2 2 0 01-2 2H2a2 2 0 01-2-2z" fill="#f5c64c" stroke="#b07d14" stroke-width="1.2"/><path d="M0 7h20" stroke="#fff3c4" stroke-width="1"/></g>
+<text x="44" y="26" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="15" font-weight="bold" fill="#fff" stroke="#0a3070" stroke-width=".4">My Projects</text>
+<g transform="translate(748 8)">
+  <rect width="24" height="22" rx="3" fill="url(#ctl)" stroke="#fff"/><path d="M6 15h10" stroke="#fff" stroke-width="3"/>
+  <rect x="28" width="24" height="22" rx="3" fill="url(#ctl)" stroke="#fff"/><rect x="34" y="5" width="12" height="11" fill="none" stroke="#fff" stroke-width="2"/>
+  <rect x="56" width="24" height="22" rx="3" fill="url(#close)" stroke="#fff"/><path d="M62 5l12 12M74 5L62 17" stroke="#fff" stroke-width="2.6"/>
+</g>
+<text x="18" y="60" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">File</text><path d="M18 63h8" stroke="#1b1b1b"/><text x="68" y="60" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Edit</text><path d="M68 63h8" stroke="#1b1b1b"/><text x="118" y="60" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">View</text><path d="M118 63h8" stroke="#1b1b1b"/><text x="168" y="60" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Favorites</text><path d="M168 63h8" stroke="#1b1b1b"/><text x="256" y="60" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Tools</text><path d="M256 63h8" stroke="#1b1b1b"/><text x="314" y="60" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Help</text><path d="M314 63h8" stroke="#1b1b1b"/>
+<path d="M2 70h836" stroke="#d4d0c8"/>
+<g>
+  <circle cx="30" cy="91" r="12" fill="url(#go)" stroke="#1a6e1a"/><path d="M36 91H24m5-5l-5 5 5 5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="48" y="96" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Back</text>
+  <circle cx="104" cy="91" r="12" fill="#c9c6b8" stroke="#8d8a7c"/><path d="M98 91h12m-5-5l5 5-5 5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(130 82)"><path d="M0 3a2 2 0 012-2h5l2 2h9a2 2 0 012 2v10a2 2 0 01-2 2H2a2 2 0 01-2-2z" fill="#f5c64c" stroke="#b07d14" stroke-width="1.2"/><path d="M0 7h20" stroke="#fff3c4" stroke-width="1"/><path d="M10 14V7m-3 3l3-3 3 3" fill="none" stroke="#2a7a1a" stroke-width="2"/></g>
+  <path d="M164 78v26" stroke="#c4c0b0"/>
+  <circle cx="186" cy="89" r="6" fill="none" stroke="#3a6fbf" stroke-width="2.5"/><path d="M190 93l5 5" stroke="#3a6fbf" stroke-width="3" stroke-linecap="round"/>
+  <text x="202" y="96" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Search</text>
+  <g transform="translate(266 82)"><path d="M0 3a2 2 0 012-2h5l2 2h9a2 2 0 012 2v10a2 2 0 01-2 2H2a2 2 0 01-2-2z" fill="#f5c64c" stroke="#b07d14" stroke-width="1.2"/><path d="M0 7h20" stroke="#fff3c4" stroke-width="1"/></g>
+  <text x="292" y="96" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Folders</text>
+  <text x="820" y="96" text-anchor="end" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="13" fill="#4d4d4d">9 objects</text>
+</g>
+<path d="M2 110h836" stroke="#d4d0c8"/>
+<text x="16" y="131" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="13" fill="#6d6d6d">Address</text>
+<rect x="76" y="116" width="680" height="24" fill="#fff" stroke="#7f9db9"/>
+<g transform="translate(84 120) scale(.85)"><path d="M0 3a2 2 0 012-2h5l2 2h9a2 2 0 012 2v10a2 2 0 01-2 2H2a2 2 0 01-2-2z" fill="#f5c64c" stroke="#b07d14" stroke-width="1.2"/><path d="M0 7h20" stroke="#fff3c4" stroke-width="1"/></g>
+<text x="108" y="133" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="13" fill="#1b1b1b">C:\Users\Huseyin\Projects\All Projects</text>
+<rect x="764" y="116" width="58" height="24" rx="2" fill="#ece9d8" stroke="#a5a294"/>
+<rect x="768" y="120" width="16" height="16" rx="3" fill="url(#go)"/><path d="M772 128h8m-3-3l3 3-3 3" fill="none" stroke="#fff" stroke-width="2"/>
+<text x="790" y="133" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="13" fill="#1b1b1b">Go</text>
+<rect x="2" y="140" width="836" height="54" rx="0" fill="url(#band)"/>
+<path d="M2 140h836" stroke="#3a64b8"/>
+<path d="M2 186v1a8 8 0 008 8h820a8 8 0 008-8v-1" fill="url(#band)"/>
+<rect x="14" y="146" width="150" height="38" rx="2" fill="url(#tabsel)" stroke="#0a3f9f"/><g transform="translate(26 156)"><path d="M0 3a2 2 0 012-2h5l2 2h9a2 2 0 012 2v10a2 2 0 01-2 2H2a2 2 0 01-2-2z" fill="#f5c64c" stroke="#b07d14" stroke-width="1.2"/><path d="M0 7h20" stroke="#fff3c4" stroke-width="1"/></g><text x="54" y="170" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#fff">All Projects</text><rect x="172" y="146" width="146" height="38" rx="2" fill="#e8effb" stroke="#9db5e0"/><g transform="translate(184 156)"><path d="M0 3a2 2 0 012-2h5l2 2h9a2 2 0 012 2v10a2 2 0 01-2 2H2a2 2 0 01-2-2z" fill="#f5c64c" stroke="#b07d14" stroke-width="1.2"/><path d="M0 7h20" stroke="#fff3c4" stroke-width="1"/></g><text x="212" y="170" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Professional</text><rect x="326" y="146" width="136" height="38" rx="2" fill="#e8effb" stroke="#9db5e0"/><g transform="translate(338 156)"><path d="M0 3a2 2 0 012-2h5l2 2h9a2 2 0 012 2v10a2 2 0 01-2 2H2a2 2 0 01-2-2z" fill="#f5c64c" stroke="#b07d14" stroke-width="1.2"/><path d="M0 7h20" stroke="#fff3c4" stroke-width="1"/></g><text x="366" y="170" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Full Stack</text><rect x="470" y="146" width="120" height="38" rx="2" fill="#e8effb" stroke="#9db5e0"/><g transform="translate(482 156)"><path d="M0 3a2 2 0 012-2h5l2 2h9a2 2 0 012 2v10a2 2 0 01-2 2H2a2 2 0 01-2-2z" fill="#f5c64c" stroke="#b07d14" stroke-width="1.2"/><path d="M0 7h20" stroke="#fff3c4" stroke-width="1"/></g><text x="510" y="170" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Systems</text><rect x="598" y="146" width="124" height="38" rx="2" fill="#e8effb" stroke="#9db5e0"/><g transform="translate(610 156)"><path d="M0 3a2 2 0 012-2h5l2 2h9a2 2 0 012 2v10a2 2 0 01-2 2H2a2 2 0 01-2-2z" fill="#f5c64c" stroke="#b07d14" stroke-width="1.2"/><path d="M0 7h20" stroke="#fff3c4" stroke-width="1"/></g><text x="638" y="170" font-family="Tahoma, Verdana, 'Segoe UI', sans-serif" font-size="14" fill="#1b1b1b">Research</text>
+<rect x="1" y="1" width="838" height="194" rx="9" fill="none" stroke="#0a3f9f" stroke-width="2"/>
+
+</svg>
